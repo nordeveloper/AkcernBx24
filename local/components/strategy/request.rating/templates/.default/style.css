@@ -1,0 +1,12 @@
+.rating-box{position: relative;}
+.rate-info{
+    display: none; padding: 4px 10px; position: absolute; 
+    background:#6fd807;
+    border-radius: 9px;
+    right: 4%;
+    top: 34px;    
+}
+
+.realty-rating img{
+    cursor: pointer;
+}

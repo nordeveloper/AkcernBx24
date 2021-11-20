@@ -1,0 +1,6 @@
+<?
+$sSectionName = "Блокированные";
+$arDirProperties = Array(
+
+);
+?>

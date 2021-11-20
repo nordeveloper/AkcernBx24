@@ -1,0 +1,29 @@
+<?php
+$MESS['COMPONENT_TITLE'] = 'Недвижимость';
+$MESS['ADD'] = 'Добавить';
+$MESS['REMOVE'] = 'Удалить';
+$MESS['EDIT'] = "Редактировать";
+$MESS['PRINT'] = 'Печать';
+$MESS['VIEW_MATCHES'] = 'Посмотреть совпадения';
+$MESS['ACCESS_DENIED'] = "Инфо скрыта";
+$MESS['NAME'] = 'Идентификатор';
+$MESS['DATE_CREATE'] = 'Дата создания';
+$MESS['TIMESTAMP_X'] = 'Дата обновления';
+$MESS['CREATED_BY'] = 'Риелтор';
+$MESS['PICTURE'] = 'Картинка';
+$MESS['DEPARTMENT'] = 'Контора';
+$MESS['VERIFAED'] = 'Одобрен';
+
+$MESS['LINK_APARTMENT'] = 'Квартира';
+$MESS['LINK_HOME'] = 'Дом';
+$MESS['LINK_MANSION'] = 'Особняк';
+$MESS['LINK_DACHA'] = 'Дача';
+$MESS['LINK_OFFICE'] = 'Офис';
+$MESS['LINK_RESTAURANT'] = 'Ресторан';
+$MESS['LINK_SHOP'] = 'Магазин';
+$MESS['LINK_LAND'] = 'Земля';
+$MESS['LINK_AUTOSERVICE'] = 'Автосервис';
+$MESS['LINK_HOTEL'] = 'Гостиница';
+$MESS['LINK_BARBERSHOP'] = 'Парикмахерская';
+$MESS['LINK_OTHER'] = "Другое";
+$MESS['ARE_YOU_SURE'] = 'Вы уверены что хотите удалить?';

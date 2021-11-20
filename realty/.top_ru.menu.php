@@ -1,0 +1,67 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Недвижимость", 
+		"/realty/list/", 
+		Array(), 
+		Array("icon"=>"home.png"), 
+		"" 
+	),
+	Array(
+		"Архив", 
+		"/realty/archive/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Удаленные", 
+		"/realty/removed/", 
+		Array(), 
+		Array(), 
+		"CSite::InGroup(array(1,13))" 
+	),
+	Array(
+		"Запросы клиентов", 
+		"/realty/client-requests/", 
+		Array(), 
+		Array("icon"=>"list.png"), 
+		"" 
+	),
+	Array(
+		"Удаленные запросы", 
+		"/realty/client-requests/removed/", 
+		Array(), 
+		Array(), 
+		"CSite::InGroup(array(1))" 
+	),
+	Array(
+		"Журнал посещений", 
+		"/realty/visits/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Контакты", 
+		"/realty/clients/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Блокировка", 
+		"/realty/blocked/", 
+		Array(), 
+		Array(), 
+		"CSite::InGroup(array(1,13))" 
+	),
+	Array(
+		"Проверка", 
+		"/realty/check/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

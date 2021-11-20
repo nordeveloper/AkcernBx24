@@ -1,0 +1,11 @@
+<?
+require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
+$APPLICATION->SetTitle("Регионы");
+?>
+<?$APPLICATION->IncludeComponent(
+	"strategy:location.regions", 
+	".default", 
+	array(),
+	false
+);?>
+<?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

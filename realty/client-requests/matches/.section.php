@@ -1,0 +1,6 @@
+<?
+$sSectionName = "Совпадений";
+$arDirProperties = Array(
+
+);
+?>

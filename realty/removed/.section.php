@@ -1,0 +1,6 @@
+<?
+$sSectionName = "Удаленные";
+$arDirProperties = Array(
+
+);
+?>

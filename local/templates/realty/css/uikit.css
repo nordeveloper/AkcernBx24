@@ -1,0 +1,90 @@
+
+/*
+* input, textarea
+*/
+.c-form-group{
+    position: relative;
+    margin-bottom: 1rem;
+}
+
+.c-form-text{
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    padding: .734rem 1rem;
+    font-size: .938rem;
+    line-height: 1.5;
+    background-color:#fff;
+    border: 1px solid #c8c5c5;
+    border-radius: .375rem;
+    font-family: 'Open Sans', sans-serif;
+    outline: none;
+    margin-top: -16px;
+}
+
+textarea.c-form-text{
+    height: 6rem;
+    min-height: 3rem;
+}
+
+.c-form-text::placeholder{
+    color: #98a5b6;
+}
+
+/*
+* input and textarea error
+*/
+.c-form-text-error{
+    border-color: #f33434;
+}
+
+/*
+* input and textarea success
+*/
+.c-form-text-success{
+    border-color: #25af36;
+}
+
+/*
+* input and textarea feedback
+*/
+.c-form-text-feedback{
+    display: block;
+    width: 100%;
+    margin: 2px 0 0 6px;
+    font-size: .75rem;
+    line-height: 1.25rem;
+    color: #ebeef1;
+}
+
+/*
+* input and textarea label
+*/
+.c-label-text{
+    margin-left: 6px;
+    font-size: 0.9rem;
+    line-height: .938rem;
+    color: #000;
+    padding: 0 6px;
+    cursor: pointer;
+    position: relative;
+    background-color: #fff;
+    z-index: 99;
+    margin-bottom: 0.5rem;
+}
+
+.c-label-icon{
+    position: absolute;
+    top: 1px;
+    left: 1px;
+    font-size: 1rem;
+    line-height: .938rem;
+    background:#fff;
+    color: #98a5b6;
+    border-radius: .320rem 0 0 .320rem;
+    cursor: pointer;
+}
+
+.c-form-group .chosen-container{
+    margin-top: -26px;
+}

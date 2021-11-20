@@ -1,0 +1,10 @@
+<?
+$PERM["removed"]["G12"]="D";
+$PERM["removed"]["G13"]="R";
+$PERM["blocked"]["G12"]="D";
+$PERM["blocked"]["G13"]="R";
+$PERM["blocked"]["G10"]="D";
+$PERM["settings"]["G12"]="D";
+$PERM["settings"]["G13"]="R";
+$PERM["settings"]["G1"]="R";
+?>

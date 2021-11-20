@@ -1,0 +1,149 @@
+.table-queue.table td.colname,
+.table-queue.table td {
+    padding: 0;
+    text-align: center;
+    min-width: 50px;
+    max-width: 100px;
+}
+
+.table-queue.table .coldays {
+    min-width: 15px;
+    width: 15px;
+    padding: 0;
+    text-align: center
+}
+
+.day {
+    border-bottom: 1px solid #ccc;
+}
+
+.dep {
+    width: 100%;
+    border-bottom: 1px solid #ccc;
+}
+
+.queue-item {
+    cursor: pointer;
+    position: relative;
+    border: 1px solid #eae6e6;
+    float: left;
+    padding: 0 5px;
+}
+
+.queue-item p {
+    margin-bottom: 2px;
+}
+
+.prev-month {
+    padding-top: 5px;
+}
+
+.queue-day {
+    cursor: pointer;
+    position: relative;
+}
+
+.leads-title {
+    margin-top: 10px;
+    margin-bottom: 2px;
+    font-weight: bold;
+}
+
+.lead-list {
+    min-height: 200px;
+    overflow-y: auto;
+}
+
+.add-lead {
+    margin-top: 8px;
+}
+
+.check-item {
+    width: 17px;
+    float: left;
+}
+
+.lead-wrapp {
+    loat: left;
+}
+
+.lead-date {
+    float: right;
+    padding-right: 10px;
+}
+
+.lead-list .lead-link {}
+
+.leadinfo {
+    position: absolute;
+    top: 20px;
+    right: 0px;
+    z-index: 999;
+    width: 280px;
+    overflow: hidden;
+    background: #fff;
+    text-align: left;
+    border-radius: 5px;
+    padding: 10px;
+    -webkit-box-shadow: 2px 4px 21px -8px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 2px 4px 21px -8px rgba(0, 0, 0, 0.75);
+    box-shadow: 2px 4px 21px -8px rgba(0, 0, 0, 0.75);
+    overflow: hidden;
+}
+
+.leadinfo.hide {
+    padding: 0;
+}
+
+.leadinfo p {
+    margin-bottom: 4px;
+}
+
+.leadinfo p span {
+    color: #59626b;
+}
+
+.lead-item {
+    width: 100%;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+    padding: 5px 5px 0 8px;
+    float: left;
+    border-radius: 3px;
+}
+
+.lead-item p {
+    margin-bottom: 2px;
+}
+
+.lead-info{
+    margin-bottom: 10px;
+}
+
+.lead-info p {
+    margin-bottom: 4px;
+}
+
+.cancel-info {
+    position: absolute;
+    top: 25px;
+    left: 0;
+    border: 1px solid #ccc;
+}
+
+.departments label{
+    display: block;
+}
+
+.lead-list{
+    max-height: 450px;
+    overflow: auto;
+}
+
+.lead-cancel{
+    background: #ff0000;
+}
+
+.lead-cancel a{
+    color: #fff;
+}

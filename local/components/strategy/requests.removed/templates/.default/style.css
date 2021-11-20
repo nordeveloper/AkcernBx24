@@ -1,0 +1,12 @@
+.main-grid-cell-head {
+    color: #535c69!important;
+    background: #d6f1fb!important;
+}
+
+.main-ui-filter-search{
+    margin-right: 15px;
+}
+
+.btn-add, .btn-print{
+    margin-top: 15px;
+}

@@ -1,0 +1,6 @@
+<?
+$sSectionName = "Queue";
+$arDirProperties = Array(
+
+);
+?>

@@ -1,0 +1,6 @@
+<?
+$sSectionName = "Зоны";
+$arDirProperties = array(
+
+);
+?>

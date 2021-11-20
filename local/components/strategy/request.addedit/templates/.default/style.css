@@ -1,0 +1,55 @@
+.aside {
+    min-height: 800px;
+    background: #162135;
+    color: #fff;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.right-content {
+    background: #f2f2f2;
+    padding-top: 15px;
+}
+
+.form-group label {
+    width: 100%;
+}
+
+.aside .ui-tile-selector-item {
+    background: none;
+}
+
+.ui-tile-selector-item span {
+    color: #ccc !important;
+}
+
+.aside .ui-tile-selector-selector-wrap {
+    background: none;
+    border: 1px solid #293854;
+}
+
+.aside .contact-phone{
+    margin-top: 5px;
+}
+
+.select2 .select2-selection--single{
+    background-color:#21304c !important;
+    border: 1px solid #2a3e63 !important;
+}
+
+.select2-dropdown{
+    background-color:#21304c !important;
+    border: 1px solid #162135 !important;
+    color: #fff;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__rendered{
+    color: #fff !important;
+}
+
+
+@media(max-width:767px) {
+    .aside-show {
+        display: block !important;
+    }
+}

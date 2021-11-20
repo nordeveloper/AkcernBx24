@@ -1,0 +1,407 @@
+.aside {
+    min-height: 1000px;
+    background: #162135;
+    color: #fff;
+    float: left;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.aside p {
+    margin-bottom: 5px;
+}
+
+.aside .form-control,
+.aside .input-date-box input {
+    background: #21304c;
+    border: none;
+    color: #fff;
+    border: 1px solid #2a3e63;
+}
+
+.aside .form-control[disabled] {
+    background-color: #101d36;
+    border: 1px solid #233861;
+    cursor: default;
+}
+
+.aside hr {
+    margin-bottom: 5px;
+}
+
+.field_crm {
+    margin: 0 auto
+}
+
+.field_crm_entity {
+    text-align: center;
+}
+
+.field_crm_entity a {
+    color: #fff;
+}
+
+.prop-title {
+    font-weight: bold;
+}
+
+.block-middle {
+    background: #f1efec;
+    padding-top: 10px;
+}
+
+.owner-box {
+    margin-top: 20px;
+    padding-bottom: 10px;
+}
+
+.owner-box table {
+    margin: 0 auto;
+}
+
+.owner-box p {
+    margin-bottom: 5px;
+}
+
+.owner-box a {
+    color: #fff;
+}
+
+.owner-box .crm-button-open span {
+    color: #fff;
+    border-bottom: 1px dashed #fff;
+}
+
+.owner-box table.field_crm td.field_crm_entity {
+    padding-left: 21px;
+}
+
+.contact-phone,
+.contact-email {
+    margin-top: 10px;
+}
+
+.realtor-box {
+    margin-top: 15px;
+    padding-bottom: 10px;
+}
+
+.info-image {
+    margin: 0 auto;
+    text-align: center;
+    height: 85px;
+}
+
+.info-image img {
+    margin: 0 auto;
+    max-height: 100%;
+}
+
+form .h3 {
+    margin-top: 8px;
+    font-size: 22px;
+    margin-bottom: 5px;
+}
+
+.form-block-top {
+    background: #c7d3df;
+    padding-top: 15px;
+}
+
+.right-content {
+    background: #f2f2f2;
+    padding-bottom: 30px;
+}
+
+.visit-count {
+    display: inline-block;
+    padding: 1px 10px;
+    border: 1px solid #ccc;
+}
+
+.input-date-box {
+    position: relative;
+}
+
+.input-date-box .calendar-icon {
+    position: absolute;
+    top: 8px;
+    right: 6px;
+}
+
+.aside .checkbox-group .custom-control{
+    margin: 0 auto;
+    width: 60px;
+}
+
+.gallery-wrapp {
+    background: #fff;
+    padding-top: 10px;
+}
+
+.gallery {
+    float: left;
+    width: 100%;
+}
+
+.gallery .main-image-box {
+    width: 100%;
+    float: left;
+    text-align: center;
+    position: relative;
+}
+
+.main-image-box a{
+    display: block;
+}
+.main-image-box img{display: block;}
+
+.btn-detele-main-photo{
+    margin-top: -57px;
+    margin-left: 225px;
+}
+
+.gallery-images {
+    width: 100%;
+    float: left;
+}
+
+.gallery-part-hide{
+    max-height: 930px;
+    overflow: hidden;
+}
+
+.gallery-image {
+    width: 33%;
+    border: 1px solid #dedede;
+    height: 100px;
+    float: left;
+    margin-bottom: 5px;
+    overflow: hidden;
+    cursor: pointer;
+    position: relative;
+}
+
+.gallery-image img {
+    max-height: 100%;
+}
+
+.gallery-image .btn-delete {
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.gallery-image input[type=checkbox] {
+    /*display: none;*/
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.main-image .btn-delete {
+    position: absolute;
+    top: 2px;
+    color: #fff;
+    right: 0;
+}
+
+.upload-main-image {
+    margin-top: -41px;
+}
+
+.gallery-buttons {
+    width: 100%;
+    margin-top: 15px;
+    float: left;
+    text-align: center;
+}
+
+.loading {
+    display: none;
+    background: #F1F1F1;
+}
+
+.realty-rating img {
+    cursor: pointer;
+}
+
+label.checkbox {
+    margin-bottom: 6px;
+}
+
+.ajax-list {
+    list-style: none;
+    padding: 0;
+}
+
+.ajax-list li {
+    padding-left: 10px;
+    cursor: pointer;
+    color: #41577e;
+}
+
+.ajax-list li:hover {
+    background: #fafafa;
+}
+
+.street-list {
+    z-index: 999;
+    position: absolute;
+    top: 66px;
+    background: #fff;
+    border: 1px solid #ccc;
+    height: 400px;
+    overflow: hidden;
+    overflow-y: auto;
+}
+
+.aside .form-control:focus {
+    background: #41577e;
+    color: #fff;
+}
+
+.status-box label {
+    color: #fff;
+}
+
+.status-box select {
+    background: #101d36;
+    color: #5a738d;
+    border: 1px solid #233861;
+    cursor: pointer;
+}
+
+select.form-control:disabled {
+    color: #5a738d;
+}
+
+.client-box {}
+
+.client-box a {
+    color: #fff;
+}
+
+.client-box table {
+    margin: 0 auto;
+}
+
+.main-form .main-ui-filter-wield-with-label {
+    width: 100%;
+    margin-left: 0;
+}
+
+.main-ui-select-inner {
+    max-height: 300px;
+    overflow: auto;
+}
+
+.ui-tile-selector-selector-wrap {
+    background: none !important;
+    border: 1px solid #1c3156 !important;
+    padding: 7px 0 1px 7px !important;
+}
+
+.ui-tile-selector-item {
+    color: #fff !important;
+    font-size: 14px;
+    font-weight: normal;
+    background-color: transparent !important;
+}
+
+.ui-tile-selector-item span {
+    color: #ccc !important;
+}
+
+.select2 .select2-selection--single{
+    background-color:#21304c !important;
+    border: 1px solid #2a3e63 !important;
+}
+
+.select2-dropdown{
+    background-color:#21304c !important;
+    border: 1px solid #162135 !important;
+    color: #fff;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__rendered{
+    color: #fff !important;
+}
+
+.ui-tile-selector-select{
+    color: #3c8ada;
+}
+
+.contact-link{
+    color: #fff;
+    border-bottom:1px dotted;
+}
+
+.contact-link:hover{
+    text-decoration: none;
+}
+
+.contactName-wrapp{
+    width: 100%;
+}
+
+.select2-container{
+    width:100% !important;
+}
+
+.gallery-image .hide-image{
+    position: absolute;
+    top: 9px;
+    color: #fff;
+    left: 4px;
+    cursor: pointer;
+    background: rgb(111 111 111 / 39%);
+    padding-right: 5px;
+    width: 20px;
+    height: 20px;
+    border-radius: 5px;
+}
+
+.hide-image input{
+    position: inherit;
+    left: 5px;
+    top: 4px;
+}
+.hide-image .glyphicon{
+    position: inherit;
+    right: 8px;
+    top: 6px;
+}
+
+.MultiFile-applied{
+    display: none;
+}
+
+.MultiFile-label .MultiFile-remove{
+    color:#ff0000;
+}
+
+.lock-save{
+    position: absolute;
+    top: -14px;
+    z-index: 999;
+    width: 100%;
+    height: 56px;
+    background: #fff;
+    color: #109710;
+    font-size: 19px;
+    font-weight: bold;
+}
+
+@media(max-width:1000px) {
+    form label {
+        font-size: 13px;
+    }
+}
+
+@media(max-width:767px) {
+    .aside-show {
+        display: block !important;
+    }
+}
